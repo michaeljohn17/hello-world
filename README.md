@@ -1,5 +1,3 @@
 # hello-world
 
-Hello im Michael john M. Ebuenga,
-
-how are today?
+Hello! I'M MICHAEL JOHN M. EBUENGA
